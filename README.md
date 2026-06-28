@@ -89,3 +89,11 @@ The `vaultx` binary will be in `build/`.
 |---|---|---|
 | `--algo xor` (default) | XOR Cipher | Each byte XOR'd with the cyclic key bytes |
 | `--algo caesar` | Caesar Byte-Shift | Each byte shifted by a value derived from the key |
+
+## Screenshots
+
+### Encryption
+![](screenshots/Encryption.png)
+
+### Decryption
+![](screenshots/Decryption.png)
